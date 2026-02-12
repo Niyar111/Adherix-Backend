@@ -1,5 +1,5 @@
 
-#  Adherix: AI-Powered Medication Adherence Ecosystem
+#  Adherix: Medication Adherence Ecosystem
 
 **Adherix** is a high-performance, real-time backend infrastructure designed to solve the global challenge of medication non-compliance. Unlike simple reminder apps, Adherix treats adherence as a backend-enforced safety problem, utilizing automated monitoring and real-time guardian escalation.
 
